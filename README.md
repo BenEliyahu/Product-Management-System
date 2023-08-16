@@ -15,10 +15,10 @@ The client folder contains the React app. Type npm install to install the depend
 - After each deletion/addition/updation a screen will pop up showing that the product has been deleted/added/updated
 
 
+![2023-08-16](https://github.com/BenEliyahu/Product-Management-System/assets/108268890/cd088e5b-f818-4522-8538-9e6e0d7d176c)
+
+![2023-08-16 (1)](https://github.com/BenEliyahu/Product-Management-System/assets/108268890/dde9fccf-b355-4d4b-aa58-26c75c0621a5)
 
 
 
-![2023-08-16](https://github.com/BenEliyahu/Product-Management-System/assets/108268890/5db69965-6b91-4521-831f-c2037a6ac720.png)
-
-![2023-08-16 (1)](https://github.com/BenEliyahu/Product-Management-System/assets/108268890/8f149816-d9cf-45ec-b94d-805718e29154.png)
 
