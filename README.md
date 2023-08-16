@@ -14,14 +14,9 @@ The client folder contains the React app. Type npm install to install the depend
 - Exiting the interface will redirect to my github
 - After each deletion/addition/updation a screen will pop up showing that the product has been deleted/added/updated
 
-My MongoDB details:
-
-Compass : mongodb+srv://ben:ben12345@cluster0.t3rpobc.mongodb.net/ 
-
-MongoDB for VS Code in .env file: MONGO_URL="mongodb+srv://ben:ben12345@cluster0.t3rpobc.mongodb.net/"
 
 
- 
+![2023-08-16](https://github.com/BenEliyahu/Product-Management-System/assets/108268890/5db69965-6b91-4521-831f-c2037a6ac720)
 
-
+![2023-08-16 (1)](https://github.com/BenEliyahu/Product-Management-System/assets/108268890/8f149816-d9cf-45ec-b94d-805718e29154)
 
