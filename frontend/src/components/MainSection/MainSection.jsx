@@ -7,6 +7,7 @@ import ModelPopup from "../PopupPage/CreateProductForm";
 import { axiosGet } from "../../axiosServices";
 import EditDetailsModal from "../PopupPage/EditDetailsProduct";
 
+
 const MainSection = ({ setProductId }) => {
   const [showModal, setShowModal] = useState(false);
   const [editModal, setEditModal] = useState(false);

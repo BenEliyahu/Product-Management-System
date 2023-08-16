@@ -26,12 +26,12 @@ const LeftNav = ({ productId }) => {
   return (
     <nav className='leftNav'>
       <div className="productDetail">
-        <h2>Full Detail</h2>
+        <h2>Full Details</h2>
         <img src={productById.image}/>
         <h1>{productById.name}</h1>
-        <p>Code: {productById.code}</p>
-        <p>Description: {productById.description}</p>
-        <p>Type: {productById.type}</p>
+        <p><h4>Code:</h4>{productById.code}</p>
+        <p><h4>Description:</h4> {productById.description}</p>
+        <p><h4>Type:</h4>{productById.type}</p>
         <p className='date'>Marketing Date: {formatDate(productById.marketingDate)}</p>
       </div>
     </nav>
